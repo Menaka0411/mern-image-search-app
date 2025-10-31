@@ -139,19 +139,3 @@ npm run dev
 cd client
 npm run dev
 ```
-## 🖼️ App Screenshots
-
-<div align="center">
-
-<img src="Result/img1.png" alt="Login Page 1" width="22%" style="margin:10px;">
-<img src="Result/img2.png" alt="Login Page 2" width="22%" style="margin:10px;">
-<img src="Result/img6.png" alt="Login Page 3" width="22%" style="margin:10px;">
-<img src="Result/img7.png" alt="Login Page 4" width="22%" style="margin:10px;">
-
-<br>
-
-<img src="Result/img3.png" alt="Dashboard 1" width="25%" style="margin:10px;">
-<img src="Result/img4.png" alt="Dashboard 2" width="25%" style="margin:10px;">
-<img src="Result/img5.png" alt="Dashboard 3" width="25%" style="margin:10px;">
-
-</div>
