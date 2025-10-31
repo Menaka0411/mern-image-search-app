@@ -143,7 +143,6 @@ npm run dev
 
 <div align="center">
 
-<!-- Row 1 -->
 <img src="result/img1.png" alt="Login Page 1" width="220" style="margin:10px;">
 <img src="result/img2.png" alt="Login Page 2" width="220" style="margin:10px;">
 <img src="result/img6.png" alt="Login Page 3" width="220" style="margin:10px;">
@@ -151,7 +150,6 @@ npm run dev
 
 <br>
 
-<!-- Row 2 -->
 <img src="result/img3.png" alt="Dashboard 1" width="250" style="margin:10px;">
 <img src="result/img4.png" alt="Dashboard 2" width="250" style="margin:10px;">
 <img src="result/img5.png" alt="Dashboard 3" width="250" style="margin:10px;">
