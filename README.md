@@ -143,15 +143,15 @@ npm run dev
 
 <div align="center">
 
-<img src="result/img1.png" alt="Login Page 1" width="22%" style="margin:10px;">
-<img src="result/img2.png" alt="Login Page 2" width="22%" style="margin:10px;">
-<img src="result/img6.png" alt="Login Page 3" width="22%" style="margin:10px;">
-<img src="result/img7.png" alt="Login Page 4" width="22%" style="margin:10px;">
+<img src="Result/img1.png" alt="Login Page 1" width="22%" style="margin:10px;">
+<img src="Result/img2.png" alt="Login Page 2" width="22%" style="margin:10px;">
+<img src="Result/img6.png" alt="Login Page 3" width="22%" style="margin:10px;">
+<img src="Result/img7.png" alt="Login Page 4" width="22%" style="margin:10px;">
 
 <br>
 
-<img src="result/img3.png" alt="Dashboard 1" width="25%" style="margin:10px;">
-<img src="result/img4.png" alt="Dashboard 2" width="25%" style="margin:10px;">
-<img src="result/img5.png" alt="Dashboard 3" width="25%" style="margin:10px;">
+<img src="Result/img3.png" alt="Dashboard 1" width="25%" style="margin:10px;">
+<img src="Result/img4.png" alt="Dashboard 2" width="25%" style="margin:10px;">
+<img src="Result/img5.png" alt="Dashboard 3" width="25%" style="margin:10px;">
 
 </div>
